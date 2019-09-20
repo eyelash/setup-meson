@@ -1,0 +1,6 @@
+name: Setup Meson build system
+description: Setup Meson build system
+author: eyelash
+runs:
+  using: node12
+  main: setup-meson.js
